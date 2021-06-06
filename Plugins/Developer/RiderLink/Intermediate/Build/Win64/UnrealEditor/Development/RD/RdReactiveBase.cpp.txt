@@ -1,0 +1,346 @@
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\RdReactiveBase.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/RdBindableBase.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdBindable.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdDynamic.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RName.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cstddef
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals_core.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\sal.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\concurrencysal.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vadefs.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xtr1common
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdint
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\stdint.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\deque
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\limits.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\climits
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\intrin0.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xstddef
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\initializer_list
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\new
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\exception
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_new_debug.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_new.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\crtdefs.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\use_ansi.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\type_traits
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_exception.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xutility
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cstring
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\utility
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\functional
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\tuple
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vector
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\algorithm
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/Lifetime.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\map
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xtree
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\mutex
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\chrono
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ratio
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_startup.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\future
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\condition_variable
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ppltasks.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\pplwin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\pplinterface.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ppltaskscheduler.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\crtdefs.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\pplcancellation_token.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\intrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\setjmp.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\immintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\wmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\nmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\smmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\tmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\pmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\emmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\mmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\zmmintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\ammintrin.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\locale
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocbuf
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocmes
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocmon
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xloctime
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\codecvt
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/cfg/log_levels.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_map
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xhash
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\list
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\xbit_ops.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\iostream
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IProtocol.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Serializers.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Identities.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IUnknownInstance.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/RdAny.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization\DefaultAbstractDeclaration.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/unordered_map.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_set
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IWire.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/base/interfaces.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IRdReactive.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/Property.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IProperty.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalX.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalCookie.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\IPropertyBase.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/SequentialLifetimes.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeDefinition.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\guards.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/stdout_color_sinks.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/wincolor_sink.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/console_globals.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/sinks/sink.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/formatter.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\array
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/windows_include.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\excpt.h
+G:\Jeux\Coding\VisualStudio2019\VS2019\VC\Tools\MSVC\14.29.30037\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\mcx.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h

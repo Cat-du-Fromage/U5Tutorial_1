@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLink-0022.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Intermediate\Build\Win64\U5Tutorial_1Editor\Development\Core\SharedPCH.Core.RTTI.ShadowErrors.h.obj"
+"Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Module.RiderLink.cpp.obj"
+"Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\Default.rc2.res"
+/OUT:"Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLink\UnrealEditor-RiderLink-0022.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderLink

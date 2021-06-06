@@ -1,0 +1,2 @@
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h
+Z:\Programmes\Epic Games\Launcher\VaultCache\U5Tutorial_1\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h
